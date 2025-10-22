@@ -1,16 +1,13 @@
-## Hi there 👋
+🌱 성장하는 초보개발자, 배움을 즐기는 SeoYoung-like입니다
 
-<!--
-**SeoYoung-like/SeoYoung-like** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요. 꾸준히 배우며 성장하는 주니어 개발자입니다.
+문제를 해결하는 과정을 즐기며, 단순히 ‘동작하는 코드’보다 ‘유지보수와 최적화를 위한 코드’를 지향하고 있습니다.
 
-Here are some ideas to get you started:
+현재는 Python을 중심으로 자동화, 데이터 처리, 웹 크롤링 등을 공부하고 있으며
+작은 프로젝트라도 직접 설계하고 구현해보며 학습하고 있습니다.
+개인적으로 코드는 혼자 짜는 게 아니라, 함께 유지보수하고 공유해야 하는 작업물이라고 생각합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+작은 성취를 반복하며 기초를 다지고, 언젠가는 팀의 목표를 함께 이끄는 개발자로 성장하고 싶습니다.
+
+📘 “코드 한 줄이 누군가의 하루를 더 편하게 만들 수 있다”
+그 믿음으로 오늘도 배우고, 기록하고, 성장하고 있습니다. 😀

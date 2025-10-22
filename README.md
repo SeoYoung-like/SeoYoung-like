@@ -38,3 +38,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
 
 [![BlueSEO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoYoung-like&theme=github_dark_dimmed&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoYoung-like&layout=compact)](https://github.com/SeoYoung-like)
+
